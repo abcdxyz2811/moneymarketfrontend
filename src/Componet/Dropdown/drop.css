@@ -1,0 +1,18 @@
+.avregecontent{
+    margin-top: 5rem !important;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8rem !important;
+}
+
+.movingbtn{
+    display: flex;
+    flex-direction: column;
+    /* font-family: emoji; */
+    justify-content: center;
+    align-items: center;
+}
+
+.tablemoving{
+    margin-top: 5rem !important;
+}
