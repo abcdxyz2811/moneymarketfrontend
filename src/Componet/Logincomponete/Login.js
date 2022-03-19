@@ -124,6 +124,7 @@ function Login(props) {
                                                 onFailure={responseGoogle}
                                                 cookiePolicy={'single_host_origin'}
                                             />
+                                            
 {/* 
                                             <button class="btn btn-google btn-login text-uppercase fw-bold" type="submit">
                                                 <i class="fab fa-google me-2"></i> Sign in with Google

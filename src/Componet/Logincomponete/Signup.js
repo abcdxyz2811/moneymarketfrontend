@@ -5,6 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import toastr from "toastr"
 import { GoogleLogin } from "react-google-login"
 import 'toastr/build/toastr.css';
+
 function Signup(props) {
     const [obj, setobj] = useState({ username: "", email: "", password: "", cpassword: "" })
     // localStorage.setItem("token","")
