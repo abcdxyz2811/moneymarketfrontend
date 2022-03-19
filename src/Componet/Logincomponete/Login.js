@@ -117,7 +117,6 @@ function Login(props) {
                                         </div>
                                         <hr class="my-4" />
                                         <div class="d-grid mb-2">
-
                                         <GoogleLogin
                                                 clientId="728916457886-1j3jf5e4rrsh0vktr6eudicca4tjm7pd.apps.googleusercontent.com"
                                                 buttonText="Login with Google"

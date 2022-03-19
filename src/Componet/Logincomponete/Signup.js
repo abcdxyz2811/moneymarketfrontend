@@ -48,7 +48,6 @@ function Signup(props) {
                 });
             }
         })
-
         if (userlogin.status === 200) {
             toastr.success('successfull singnup', { timeOut: 5000 })
             console.log("successfull signup", userlogin)
